@@ -13,6 +13,7 @@ Bonjour, moi c'est Sevket
 - **Outils** : Git, VS Code
 
 ## Parcours
+- **MSc Pro** - EPITECH STRASBOURG (2025-2028)
 - **BTS Services Informatiques aux Organisations** - Lycée René Cassin STRASBOURG (2022-2024)
 - **Baccalauréat Technologique - Sciences Technologiques du Management et de la Gestion**  - Lycée André Maurois BISCHWILLER (2020-2022)
 - **Stages** - Numerize HOERDT (2023) | Netz Informatique HAGUENAU (2024)
